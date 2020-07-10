@@ -2202,7 +2202,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textDisplay: {fileID: 884399784}
   sentences:
-  - Onde estou?
+  - ??
+  - "Nossa, que dor de cabe\xE7a."
+  - Ahn? Onde estou?
   - "Eu n\xE3o consigo me lembrar de nada. S\xF3 do meu nome \u201CLARA\u201D"
   - "Lara: \nMas quando eu for\xE7o um pouco minha mente."
   - "Lara:\n....Ai minha cabe\xE7a."
@@ -2221,12 +2223,12 @@ MonoBehaviour:
   - "Lara: \nSe n\xE3o pode venc\xEA-los junte-se a eles."
   - "Lara: \nIrei falar com ele, vai que ele me d\xE1 informa\xE7\xF5es."
   - "Lara: \nOl\xE1, tudo bem senhor rob\xF4?"
-  - Ahn? Quem falou comigo?
+  - "Rob\xF4:\nAhn? Quem falou comigo?"
   - "Lara: \nFui euzinha, essa raposinha muito da bonita e fofa aqui."
-  - "AAAAAA, n\xE3o lhe vi a\xED."
-  - "Mr. Clockwork: \nOl\xE1, como voc\xEA est\xE1? Meu nome \xE9 Mr. Clockwork."
+  - "Rob\xF4:\nAAAAAA, n\xE3o lhe vi a\xED."
+  - "Mr. Clockwork: \nOl\xE1, como voc\xEA est\xE1? Meu nome \xE9 Mr. CLOCKWORK."
   - "Lara: \nMeu nome \xE9 Lara. Prazer"
-  - "Mr. Clockwork: \nOOOQQQUUEEEE????"
+  - "Mr. Clockwork: \nOOQQUUEEE??"
   - "Mr. Clockwork: \nUma raposa falante???"
   - "Lara: \nEu n\xE3o sei se voc\xEA percebeu, mas voc\xEA \xE9 um rob\xF4 muito
     do esquisito tamb\xE9m."
@@ -2236,17 +2238,18 @@ MonoBehaviour:
   - "Mr. Clockwork: \nEnt\xE3o Lara a raposa, o que voc\xEA quer? Ser\xE1 que que
     um amigo?"
   - "Lara: \nCom certeza n\xE3o um amigo. Por enquanto."
-  - "Mr. Clockwork: \nOh entendo, dificuldades de rela\xE7\xE3o. Humu humu."
-  - "Lara: \nOoook, o que eu quero s\xE3o informa\xE7\xF5es. Do tipo, onde estou?
-    Quem sou eu de verdade? Sou uma raposa mesmo?"
+  - "Mr. Clockwork: \nOh entendo, dificuldades de rela\xE7\xE3o. Uhm uhm."
+  - "Lara: \nOoook, o que eu quero s\xE3o informa\xE7\xF5es."
+  - "Lara: \nDo tipo, onde estou? Quem sou eu de verdade? Sou uma raposa mesmo?"
   - "Mr. Clockwork: \nQue engra\xE7ado voc\xEA perguntar isso. Acontece que eu sei
     onde conseguir essas informa\xE7\xF5es todas."
   - "Lara: \nS\xC9RIO?"
-  - "Mr. Clockwork: \nSim, muito s\xE9rio. A um tempo atr\xE1s, apareceu um sapo que
-    estava atr\xE1s de uma garota chamada Lara."
+  - "Mr. Clockwork: \nSim, muito s\xE9rio. H\xE1 um tempo atr\xE1s, apareceu um sapo
+    que estava atr\xE1s de uma garota."
   - "Mr. Clockwork: \nEle me ajudou e eu quis ajudar ele."
   - "Mr. Clockwork: \nEnt\xE3o ele me disse que estava \xE0 procura de uma garota
-    chamada Lara e que se eu a encontrasse, a mandasse ir para onde ele estava."
+    com o nome \"Lara\","
+  - "Mr. Clockwork: \nE que se eu a encontrasse, eu teria que ajudar ela."
   - "Lara: \nEstranho, n\xE3o conhe\xE7o nenhum sapo. Mas onde ele est\xE1? Deve saber
     de alguma coisa."
   - "Mr. Clockwork: \nBom, ele est\xE1 para a esquerda. S\xF3 seguir para a esquerda
@@ -2254,12 +2257,14 @@ MonoBehaviour:
   - "Lara: \n\xD3timo, ent\xE3o vou agora."
   - "Mr. Clockwork: \nMas tem um probleminha."
   - "Lara: \nO que?"
-  - "Mr. Clockwork: \nVoc\xEA est\xE1 vendo esses outros rob\xF4s embaixo? Eles s\xE3o
-    da minha fam\xEDlia e est\xE3o doentes, perderam a alegria. Gostaria que voc\xEA
-    ajudasse o m\xE1ximo poss\xEDvel durante seu caminho, que s\xE3o 10 rob\xF4s somente."
+  - "Mr. Clockwork: \nEles s\xE3o da minha fam\xEDlia e est\xE3o doentes, perderam
+    a alegria. "
+  - "Mr. Clockwork: \nGostaria que voc\xEA ajudasse o m\xE1ximo poss\xEDvel durante
+    seu caminho, que s\xE3o 10 rob\xF4s somente."
   - "Lara: \nEu n\xE3o me oponho, mas como eu fa\xE7o isso?"
-  - "Mr. Clockwork: \nVoc\xEA \xE9 a personagem principal desse jogo, aperte a tecla
-    C e voc\xEA ir\xE1 atirar um proj\xE9til que cura eles."
+  - "Mr. Clockwork: \nVoc\xEA \xE9 a personagem principal desse jogo,"
+  - "Mr. Clockwork: \nAperte a tecla C e voc\xEA ir\xE1 atirar um proj\xE9til que
+    cura eles."
   - "Lara: \nOk."
   - "Mr. Clockwork: \n..."
   - "Lara: \n..."
@@ -2278,7 +2283,7 @@ MonoBehaviour:
     com as teclas de dire\xE7\xE3o."
   - "Lara: \nWhat? Quem falou comigo agora?"
   - "Lara: \nBom, vou indo logo. Quero informa\xE7\xF5es logo."
-  typingSpeed: 0.02
+  typingSpeed: 0.01
   continueButton: {fileID: 56575100}
   dialogueBox: {fileID: 46511552}
 --- !u!1 &236105938
@@ -2776,6 +2781,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1720186966}
     m_Modifications:
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6982084178593964873, guid: fabc6663cd332f94d9c3b6a1e917070b,
         type: 3}
       propertyPath: m_Name
@@ -2834,21 +2854,6 @@ PrefabInstance:
     - target: {fileID: 6982084178593964875, guid: fabc6663cd332f94d9c3b6a1e917070b,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.b
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -3264,7 +3269,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 337531085}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -8.780436, y: 5.3569937, z: -9.877332}
+  m_LocalPosition: {x: -6.702629, y: 5.3724365, z: -9.877332}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1796086791}
@@ -4922,10 +4927,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1584281282501442210, guid: 6809f23136949a9488669a0f58179ef9,
+    - target: {fileID: 757271046144738374, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
-      propertyPath: m_Name
-      value: Ruby
+      propertyPath: Loop
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1584281282501442204, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
@@ -4982,11 +4987,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 757271046144738374, guid: 6809f23136949a9488669a0f58179ef9,
-        type: 3}
-      propertyPath: Loop
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1584281282501442207, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
       propertyPath: dialogue.sentences.Array.size
@@ -5021,6 +5021,11 @@ PrefabInstance:
         type: 3}
       propertyPath: dialogBox
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584281282501442210, guid: 6809f23136949a9488669a0f58179ef9,
+        type: 3}
+      propertyPath: m_Name
+      value: Ruby
       objectReference: {fileID: 0}
     - target: {fileID: 1584281282501442211, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
@@ -6591,11 +6596,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 990117384}
     m_Modifications:
-    - target: {fileID: 3782033689176557627, guid: 729bc9a5961b27044ba69be8f9f8d371,
-        type: 3}
-      propertyPath: m_Name
-      value: Damageable
-      objectReference: {fileID: 0}
     - target: {fileID: 3782033689176557625, guid: 729bc9a5961b27044ba69be8f9f8d371,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6650,6 +6650,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3782033689176557627, guid: 729bc9a5961b27044ba69be8f9f8d371,
+        type: 3}
+      propertyPath: m_Name
+      value: Damageable
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 729bc9a5961b27044ba69be8f9f8d371, type: 3}
@@ -7003,8 +7008,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4.4499, y: 20.3}
-  m_SizeDelta: {x: 417.9, y: 248.2}
+  m_AnchoredPosition: {x: 4.4499, y: 0.62498}
+  m_SizeDelta: {x: 417.90005, y: 287.55}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &884399784
 MonoBehaviour:
@@ -8444,16 +8449,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 731338579829467356, guid: 8d2977aa56af19049a8dcc1232003596,
-        type: 3}
-      propertyPath: m_Name
-      value: MrClockworkNPC
-      objectReference: {fileID: 0}
-    - target: {fileID: 731338579829467356, guid: 8d2977aa56af19049a8dcc1232003596,
-        type: 3}
-      propertyPath: m_Layer
-      value: 30
-      objectReference: {fileID: 0}
     - target: {fileID: 370155626594123158, guid: 8d2977aa56af19049a8dcc1232003596,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8509,6 +8504,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 731338579829467356, guid: 8d2977aa56af19049a8dcc1232003596,
+        type: 3}
+      propertyPath: m_Name
+      value: MrClockworkNPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 731338579829467356, guid: 8d2977aa56af19049a8dcc1232003596,
+        type: 3}
+      propertyPath: m_Layer
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5893290733877609064, guid: 8d2977aa56af19049a8dcc1232003596,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: 0.5053637
+      objectReference: {fileID: 0}
+    - target: {fileID: 5893290733877609064, guid: 8d2977aa56af19049a8dcc1232003596,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1.1704707
+      objectReference: {fileID: 0}
     - target: {fileID: 8637229688655766499, guid: 8d2977aa56af19049a8dcc1232003596,
         type: 3}
       propertyPath: dialogue.sentences.Array.size
@@ -8563,16 +8578,6 @@ PrefabInstance:
         type: 3}
       propertyPath: displayTime
       value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 5893290733877609064, guid: 8d2977aa56af19049a8dcc1232003596,
-        type: 3}
-      propertyPath: m_Offset.y
-      value: 0.5053637
-      objectReference: {fileID: 0}
-    - target: {fileID: 5893290733877609064, guid: 8d2977aa56af19049a8dcc1232003596,
-        type: 3}
-      propertyPath: m_Size.y
-      value: 1.1704707
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8637229688655766499, guid: 8d2977aa56af19049a8dcc1232003596, type: 3}
@@ -11537,6 +11542,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1720186966}
     m_Modifications:
+    - target: {fileID: 852029928385863247, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: moveWithTransform
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6982084178593964873, guid: fabc6663cd332f94d9c3b6a1e917070b,
         type: 3}
       propertyPath: m_Name
@@ -11596,26 +11621,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 852029928385863247, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: moveWithTransform
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fabc6663cd332f94d9c3b6a1e917070b, type: 3}
@@ -19089,10 +19094,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 990117384}
     m_Modifications:
-    - target: {fileID: 3782033689176557627, guid: 729bc9a5961b27044ba69be8f9f8d371,
+    - target: {fileID: 3782033689176557624, guid: 729bc9a5961b27044ba69be8f9f8d371,
         type: 3}
-      propertyPath: m_Name
-      value: Damageable Big
+      propertyPath: m_Size.x
+      value: 8.221869
+      objectReference: {fileID: 0}
+    - target: {fileID: 3782033689176557624, guid: 729bc9a5961b27044ba69be8f9f8d371,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 3.0523372
       objectReference: {fileID: 0}
     - target: {fileID: 3782033689176557625, guid: 729bc9a5961b27044ba69be8f9f8d371,
         type: 3}
@@ -19149,15 +19159,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3782033689176557624, guid: 729bc9a5961b27044ba69be8f9f8d371,
+    - target: {fileID: 3782033689176557627, guid: 729bc9a5961b27044ba69be8f9f8d371,
         type: 3}
-      propertyPath: m_Size.x
-      value: 8.221869
-      objectReference: {fileID: 0}
-    - target: {fileID: 3782033689176557624, guid: 729bc9a5961b27044ba69be8f9f8d371,
-        type: 3}
-      propertyPath: m_Size.y
-      value: 3.0523372
+      propertyPath: m_Name
+      value: Damageable Big
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 729bc9a5961b27044ba69be8f9f8d371, type: 3}
@@ -19727,6 +19732,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1720186966}
     m_Modifications:
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6982084178593964873, guid: fabc6663cd332f94d9c3b6a1e917070b,
         type: 3}
       propertyPath: m_Name
@@ -19787,21 +19807,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fabc6663cd332f94d9c3b6a1e917070b, type: 3}
 --- !u!1001 &7953633169430794557
@@ -19811,11 +19816,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1363131948}
     m_Modifications:
-    - target: {fileID: 8965949318232032106, guid: dbd60687588720346b273add3eac5112,
-        type: 3}
-      propertyPath: m_Name
-      value: CollectibleHealth
-      objectReference: {fileID: 0}
     - target: {fileID: 3562819140993676553, guid: dbd60687588720346b273add3eac5112,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19870,6 +19870,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8965949318232032106, guid: dbd60687588720346b273add3eac5112,
+        type: 3}
+      propertyPath: m_Name
+      value: CollectibleHealth
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbd60687588720346b273add3eac5112, type: 3}

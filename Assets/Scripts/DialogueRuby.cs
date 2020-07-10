@@ -6,7 +6,7 @@ using TMPro;
 public class DialogueRuby : MonoBehaviour
 {
     public TextMeshProUGUI textDisplay;
-    [TextArea(3, 10)]
+    [TextArea(4, 12)]
     public string[] sentences;
     private int index;
     public float typingSpeed;

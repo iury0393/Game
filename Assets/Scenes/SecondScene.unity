@@ -1014,11 +1014,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 8965949318232032106, guid: dbd60687588720346b273add3eac5112,
-        type: 3}
-      propertyPath: m_Name
-      value: Health
-      objectReference: {fileID: 0}
     - target: {fileID: 3562819140993676553, guid: dbd60687588720346b273add3eac5112,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1073,6 +1068,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8965949318232032106, guid: dbd60687588720346b273add3eac5112,
+        type: 3}
+      propertyPath: m_Name
+      value: Health
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dbd60687588720346b273add3eac5112, type: 3}
@@ -6275,6 +6275,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6982084178593964873, guid: fabc6663cd332f94d9c3b6a1e917070b,
         type: 3}
       propertyPath: m_Name
@@ -6333,21 +6348,6 @@ PrefabInstance:
     - target: {fileID: 6982084178593964875, guid: fabc6663cd332f94d9c3b6a1e917070b,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.b
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -7640,11 +7640,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 569011294}
     m_Modifications:
-    - target: {fileID: 3782033689176557627, guid: 729bc9a5961b27044ba69be8f9f8d371,
-        type: 3}
-      propertyPath: m_Name
-      value: Damageable (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 3782033689176557625, guid: 729bc9a5961b27044ba69be8f9f8d371,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7699,6 +7694,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3782033689176557627, guid: 729bc9a5961b27044ba69be8f9f8d371,
+        type: 3}
+      propertyPath: m_Name
+      value: Damageable (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 729bc9a5961b27044ba69be8f9f8d371, type: 3}
@@ -7866,6 +7866,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6982084178593964873, guid: fabc6663cd332f94d9c3b6a1e917070b,
         type: 3}
       propertyPath: m_Name
@@ -7924,21 +7939,6 @@ PrefabInstance:
     - target: {fileID: 6982084178593964875, guid: fabc6663cd332f94d9c3b6a1e917070b,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.b
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -8198,7 +8198,7 @@ MonoBehaviour:
     quem \xE9 direito.\r"
   - "Lara: \r\nBom, tenho certeza que o sapo vai me ajudar.\r"
   - "Lara: \r\nS\xF3 mais esse lugar e outro, estou perto.\r"
-  typingSpeed: 0.02
+  typingSpeed: 0.01
   continueButton: {fileID: 1490566894}
   dialogueBox: {fileID: 353223200}
 --- !u!4 &1059629969
@@ -8555,7 +8555,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1200920085}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.6772394, y: -0.47875258, z: -9.877332}
+  m_LocalPosition: {x: -1.4006643, y: -0.4729323, z: -9.877332}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1197585702}
@@ -9167,6 +9167,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6982084178593964873, guid: fabc6663cd332f94d9c3b6a1e917070b,
         type: 3}
       propertyPath: m_Name
@@ -9227,21 +9242,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fabc6663cd332f94d9c3b6a1e917070b, type: 3}
 --- !u!1001 &1358611031
@@ -9251,10 +9251,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1584281282501442210, guid: 6809f23136949a9488669a0f58179ef9,
+    - target: {fileID: 757271046144738374, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
-      propertyPath: m_Name
-      value: Ruby
+      propertyPath: Loop
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1584281282501442204, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
@@ -9311,11 +9311,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 757271046144738374, guid: 6809f23136949a9488669a0f58179ef9,
-        type: 3}
-      propertyPath: Loop
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1584281282501442207, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
       propertyPath: dialogue.sentences.Array.size
@@ -9350,6 +9345,11 @@ PrefabInstance:
         type: 3}
       propertyPath: dialogBox
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584281282501442210, guid: 6809f23136949a9488669a0f58179ef9,
+        type: 3}
+      propertyPath: m_Name
+      value: Ruby
       objectReference: {fileID: 0}
     - target: {fileID: 1584281282501442211, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
@@ -11639,10 +11639,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 569011294}
     m_Modifications:
-    - target: {fileID: 3782033689176557627, guid: 729bc9a5961b27044ba69be8f9f8d371,
+    - target: {fileID: 3782033689176557624, guid: 729bc9a5961b27044ba69be8f9f8d371,
         type: 3}
-      propertyPath: m_Name
-      value: Damageable
+      propertyPath: m_Size.y
+      value: 5.025006
       objectReference: {fileID: 0}
     - target: {fileID: 3782033689176557625, guid: 729bc9a5961b27044ba69be8f9f8d371,
         type: 3}
@@ -11699,10 +11699,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3782033689176557624, guid: 729bc9a5961b27044ba69be8f9f8d371,
+    - target: {fileID: 3782033689176557627, guid: 729bc9a5961b27044ba69be8f9f8d371,
         type: 3}
-      propertyPath: m_Size.y
-      value: 5.025006
+      propertyPath: m_Name
+      value: Damageable
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 729bc9a5961b27044ba69be8f9f8d371, type: 3}

@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-F:/Workspace/PedidoLara/Build/PedidoLara.exe
+C:/Users/500500557/projetos/Game/Build/PedidoLara.exe
 SceneListBegin?
 Assets/Scenes/Menu.unity
 Assets/Scenes/MainScene.unity
@@ -150,8 +150,6 @@ d791aa6007fa3640be1164ea75bb087d TextMeshPro-2017.3-Runtime.dll:TMPro.TMP_StyleS
 827bdcf5ef003277958896fa7d5157c2 TextMeshPro-2017.3-Runtime.dll:TMPro.TMP_SubMesh
 4e9333594897a1fb8b136ad2eae996c7 TextMeshPro-2017.3-Runtime.dll:TMPro.TMP_SubMeshUI
 c10fc5db4c8051a0b04e3970683111bf TextMeshPro-2017.3-Runtime.dll:TMPro.TMP_Text
-303ad70ce203ad874efe2965d0fbcff9 Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsEventTracker
-7fb9de8dcf73854b6b328eca1f7a6e6d Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsTracker
 dfd9ee0563efbcbfff8d6b5404b8c24b Assembly-CSharp.dll:.UIAmmoCount
 e1bbf0ab858085e38fae6b12ebbdcd35 Cinemachine.dll:Cinemachine.Timeline.CinemachineTrack
 b21e86c89591e55b02af8b8c6dd7eeb8 Cinemachine.dll:Cinemachine.CinemachineFramingTransposer
@@ -200,7 +198,6 @@ d241b953bd96426b51717342bb95894c TextMeshPro-2017.3-Editor.dll:TMPro.EditorUtili
 6adf0680d8d7e110dab1c5470b12851b TextMeshPro-2017.3-Editor.dll:TMPro.EditorUtilities.TMPro_FontAssetCreatorWindow
 71bb6a6b6c8f052f948db64c7dd3ca4f TextMeshPro-2017.3-Editor.dll:.TMPro_SDFMaterialEditor
 71bb6a6b6c8f052f948db64c7dd3ca4f TextMeshPro-2017.3-Editor.dll:TMPro.EditorUtilities.TMPro_TextContainerEditor
-71bb6a6b6c8f052f948db64c7dd3ca4f Unity.Analytics.Editor.dll:UnityEditor.Analytics.AnalyticsEventTrackerEditor
 d92e88ca99b57e7f64e5df58d6194e2f Assembly-CSharp.dll:.Enemy
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:TMPro.TMP_DigitValidator
 15882a52798c275361cd0a3ada984ec5 Cinemachine.dll:Cinemachine.CinemachineDollyCart

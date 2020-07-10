@@ -376,10 +376,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1584281282501442210, guid: 6809f23136949a9488669a0f58179ef9,
+    - target: {fileID: 757271046144738374, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
-      propertyPath: m_Name
-      value: Ruby
+      propertyPath: Loop
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1584281282501442204, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
@@ -436,11 +436,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 757271046144738374, guid: 6809f23136949a9488669a0f58179ef9,
-        type: 3}
-      propertyPath: Loop
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1584281282501442207, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
       propertyPath: dialogue.sentences.Array.size
@@ -475,6 +470,11 @@ PrefabInstance:
         type: 3}
       propertyPath: dialogBox
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584281282501442210, guid: 6809f23136949a9488669a0f58179ef9,
+        type: 3}
+      propertyPath: m_Name
+      value: Ruby
       objectReference: {fileID: 0}
     - target: {fileID: 1584281282501442211, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
@@ -2154,16 +2154,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 731338579829467356, guid: 8d2977aa56af19049a8dcc1232003596,
-        type: 3}
-      propertyPath: m_Name
-      value: MrClockworkNPC
-      objectReference: {fileID: 0}
-    - target: {fileID: 731338579829467356, guid: 8d2977aa56af19049a8dcc1232003596,
-        type: 3}
-      propertyPath: m_Layer
-      value: 30
-      objectReference: {fileID: 0}
     - target: {fileID: 370155626594123158, guid: 8d2977aa56af19049a8dcc1232003596,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2219,6 +2209,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 731338579829467356, guid: 8d2977aa56af19049a8dcc1232003596,
+        type: 3}
+      propertyPath: m_Name
+      value: MrClockworkNPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 731338579829467356, guid: 8d2977aa56af19049a8dcc1232003596,
+        type: 3}
+      propertyPath: m_Layer
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5893290733877609064, guid: 8d2977aa56af19049a8dcc1232003596,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: 0.5053637
+      objectReference: {fileID: 0}
+    - target: {fileID: 5893290733877609064, guid: 8d2977aa56af19049a8dcc1232003596,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1.1704707
+      objectReference: {fileID: 0}
+    - target: {fileID: 8194399448807021761, guid: 8d2977aa56af19049a8dcc1232003596,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8637229688655766499, guid: 8d2977aa56af19049a8dcc1232003596,
         type: 3}
       propertyPath: dialogue.sentences.Array.size
@@ -2273,21 +2288,6 @@ PrefabInstance:
         type: 3}
       propertyPath: displayTime
       value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 5893290733877609064, guid: 8d2977aa56af19049a8dcc1232003596,
-        type: 3}
-      propertyPath: m_Offset.y
-      value: 0.5053637
-      objectReference: {fileID: 0}
-    - target: {fileID: 5893290733877609064, guid: 8d2977aa56af19049a8dcc1232003596,
-        type: 3}
-      propertyPath: m_Size.y
-      value: 1.1704707
-      objectReference: {fileID: 0}
-    - target: {fileID: 8194399448807021761, guid: 8d2977aa56af19049a8dcc1232003596,
-        type: 3}
-      propertyPath: m_SortingOrder
-      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8637229688655766499, guid: 8d2977aa56af19049a8dcc1232003596, type: 3}
@@ -2690,7 +2690,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 827903018}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.67911625, y: 0.19124171, z: -9.877332}
+  m_LocalPosition: {x: -1.3987885, y: 0.19706246, z: -9.877332}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 404435188}
@@ -3918,25 +3918,25 @@ MonoBehaviour:
   - "Lara: \r\nMas n\xE3o estou desesperada.\r"
   - "Lara: \r\nEssa m\xFAsica me acalma.\r"
   - "Lara: \r\n\xC9 como se ela falasse direto com a minha alma.\r"
-  - "Lara: \r\nMe vem a imagem de uma s\xF3 pessoa tamb\xE9m.\r"
-  - "Lara: \r\nQue eu tenho a impress\xE3o de que era essa a pessoa que eu vi no passado.\r"
-  - "Lara: \r\nMas n\xE3o consigo lembrar o nome dela.\r"
-  - "Lara: \r\nMas me sinto t\xE3o feliz em ver ele sorrindo.\r"
-  - "Lara: \r\nSinto que ele \xE9 algu\xE9m muito importante para mim.\r"
+  - "Lara: \r\nEu sinto vontade de cantar junto dessa melodia."
+  - "Lara: \r\nMesmo n\xE3o sabendo a letra hihi."
+  - "Lara: \r\nQueria me lembrar de, pelo menos, algu\xE9m."
+  - "Lara: \r\nVem a mente uma pessoa, que n\xE3o sei quem \xE9."
+  - "Lara: \r\nSinto que ele \xE9 algu\xE9m especial.\r"
   - "Lara: \r\nE essa m\xFAsica tocando, eu s\xF3 queria ficar aqui mesmo.\r"
   - "Lara: \r\nAhn?\r"
   - "Lara: \r\nAquele rob\xF4 denovo?\r"
   - "Mr. Clockwork: \r\nOooh Lara a raposa, voc\xEA chegou at\xE9 aqui.\r"
   - "Mr. Clockwork: \r\nDevo agradecer, ajudou meus irm\xE3os no caminho.\r"
   - "Lara: \r\nN\xE3o foi nada, o prazer foi meu.\r"
-  - "Mr. Clockwork: \r\nComo prometido, lhe direi onde encontrar a pessoa que est\xE1
+  - "Mr. Clockwork: \r\nComo prometido, lhe direi onde encontrar o sapo que est\xE1
     lhe procurando.\r"
   - "Mr. Clockwork: \r\nVoc\xEA s\xF3 precisa passar pelo meu irm\xE3o mais velho
     ali.\r"
   - "Lara: \r\nSem problema nenhum, ele s\xF3 tem tamanho.\r"
   - "Mr. Clockwork: \r\nVoc\xEA \xE9 corajosa ein?\r"
   - "Mr. Clockwork: \r\nBom, depois de passar dele.\r"
-  - "Mr. Clockwork: \r\nVoc\xEA encontrar\xE1 a pessoa na pr\xF3xima tela.\r"
+  - "Mr. Clockwork: \r\nVoc\xEA encontrar\xE1 o sapo na pr\xF3xima tela.\r"
   - "Lara: \r\nTela?\r"
   - "Mr. Clockwork:\r\nEle vai explicar o que quero dizer.\r"
   - "Lara: \r\nT\xE1 bom ent\xE3o. \r"
@@ -3945,7 +3945,7 @@ MonoBehaviour:
   - "Lara: \r\nObrigada a voc\xEA senhor rob\xF4.\r"
   - "Mr. Clockwork: \r\n\xC9 Mr. Clockwork.\r"
   - "Lara: \r\nOk, vou indo tchau.\r"
-  typingSpeed: 0.02
+  typingSpeed: 0.01
   continueButton: {fileID: 464217248}
   dialogueBox: {fileID: 2136606975}
 --- !u!4 &1214166824
@@ -9006,6 +9006,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6982084178593964873, guid: fabc6663cd332f94d9c3b6a1e917070b,
         type: 3}
       propertyPath: m_Name
@@ -9075,21 +9090,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.x
       value: 4.467535
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3900926473652901571, guid: fabc6663cd332f94d9c3b6a1e917070b,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fabc6663cd332f94d9c3b6a1e917070b, type: 3}

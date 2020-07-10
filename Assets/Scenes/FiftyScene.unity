@@ -2453,11 +2453,120 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textDisplay: {fileID: 114135756}
   sentences:
-  - 'Lara
-
-    Onde estou?'
-  - "N\xE3o me lembro de nada, a n\xE3o ser meu nome."
-  - "Talvez aquele rob\xF4 esquisito possa me ajudar."
+  - "Lara:\r\nFinalmente\r."
+  - "Lara: \r\nAquele deve ser o sapo que o rob\xF4 falou."
+  - "Lara: \r\nPor algum motivo ele tem uma presen\xE7a que me acalma."
+  - "Lara:  \r\nE tem essa m\xFAsica linda tamb\xE9m... Vou falar com ele."
+  - "Lara: \r\nOl\xE1, seu sapo. Tudo bem com voc\xEA?"
+  - "Lara: \r\nDesculpe tirar seu tempo, "
+  - "Lara:\r\nMas preciso de umas respostas sabe."
+  - "Sapo:\r\nO Que?? Essa voz, esse jeito. N\xE3o pode ser..."
+  - "Lara:\r\n(Vixe, o que ser\xE1 que aconteceu?)"
+  - "Lara:\r\nT\xE1 tudo bem mo\xE7o?"
+  - "Sapo:\r\nAh, n\xE3o eu estou bem. "
+  - "Sapo:\r\nS\xF3 estou muito emocionado de lhe encontrar depois de procurar por
+    tanto tempo."
+  - "Lara:\r\nComo assim?"
+  - "Sapo:\r\nPerca de mem\xF3ria, n\xE3o \xE9?"
+  - "Sapo:\r\nOuvir minha voz, me ver, n\xE3o traz nada a voc\xEA n\xE3o?"
+  - "Lara:\r\nDesculpe, eu poss lhe conhecer, "
+  - "Lara:\r\nMas n\xE3o me recordo de nada mesmo."
+  - "Sapo:\r\nEntendo. Bom, n\xE3o importa na verdade."
+  - "Sapo:\r\nIrei explicar tudo a voc\xEA, a partir de agora."
+  - "Sapo: \r\nDe quem sou eu at\xE9 o porque de estarmos aqui."
+  - "Sapo:\r\nPreparada?"
+  - "Lara:\r\nSim! (Era o que eu mais queria)"
+  - "Sapo:\r\nVou come\xE7ar com meu nome."
+  - "Sapo:\r\nMeu nome \xE9 Iury."
+  - "Lara:\r\nIury?"
+  - "Iury:\r\nAlgo bateu na sua mem\xF3ria?"
+  - "Lara:\r\nSim, eu lembro desse nome."
+  - "Lara:\r\nDe alguma forma"
+  - "Iury:\r\nPois bem, meu nome \xE9 Iury."
+  - "Iury:\r\nE n\xE3o estamos em um mundo real."
+  - "Lara:\r\nPera.. O que?"
+  - "Iury:\r\nEsse mundo que estamos \xE9 um mundo virtual."
+  - "Iury:\r\nUm mundo de um jogo."
+  - "Lara:\r\nComo isso \xE9 poss\xEDvel?"
+  - "Lara:\r\nQuero dizer, eu sei que isso n\xE3o parece real."
+  - "Lara:\r\nQue eu n\xE3o devo ser um raposa ou deva ter rob\xF4s."
+  - "Lara:\r\nMas para voc\xEA dizer que isso n\xE3o \xE9 real."
+  - "Lara:\r\nEnt\xE3o, onde est\xE1 o mundo real?"
+  - "Iury:\r\nEu sei que foi muita coisa de uma vez."
+  - "Iury:\r\nMas o nosso planeta real \xE9 a terra."
+  - "Iury:\r\nQuando eu descobri o que aconteceu com voc\xEA."
+  - "Iury:\r\nEu tive que dar um jeito para resgata-la."
+  - "Iury:\r\nVoc\xEA estava presa em sonhos."
+  - "Iury:\r\nE eu encontrei um jeito de entrar nos seus sonhos."
+  - "Iury:\r\nFui eu que criei esse mundo, para voc\xEA chegar at\xE9 mim."
+  - "Iury:\r\nTodas os \u201CCen\xE1rios\" que voc\xEA passou."
+  - "Iury:\r\nEu que criei."
+  - "Lara:\r\nO que? Calma."
+  - "Lara:\r\nEu estou presa em um sonho?"
+  - "Lara:\r\nComo isso aconteceu?"
+  - "Iury:\r\nEu tamb\xE9m n\xE3o sei."
+  - "Iury:\r\nMas o importante \xE9 que podemos salvar voc\xEA."
+  - "Lara:\r\nMas\u2026 Quem \xE9 voc\xEA?"
+  - "Lara:\r\nPorque, se isso tudo aconteceu,"
+  - "Lara:\r\nFoi t\xE3o longe para me salvar?"
+  - "Lara:\r\nMe responda isso e eu irei com voc\xEA."
+  - "Iury:\r\nOk, irei responder."
+  - "Iury:\r\nMas cara, \u201CIrei com voc\xEA\u201D"
+  - "Iury:\r\nN\xE3o sabe o quanto eu esperei ouvir isso."
+  - "Lara:\r\n?"
+  - "Iury:\r\nVou explicar agora, e aproveitar fazer outra coisa."
+  - "Lara:\r\nOutra coisa?"
+  - "Iury:\r\nIrei come\xE7ar do come\xE7o."
+  - "Iury:\r\nMeu nome \xE9 Iury, como tinha falado."
+  - "Iury: \r\nVoc\xEA, por algum motivo, ficou presa nos sonhos."
+  - "Iury:\r\nE eu encontrei essa forma de lhe libertar."
+  - "Iury:\r\nPara isso, eu preciso da sua permiss\xE3o."
+  - "Iury:\r\nNo mundo real, n\xF3s temos uma rela\xE7\xE3o mais especial."
+  - "Iury:\r\nNo mundo real, somos namorados."
+  - "Lara:\r\n?"
+  - "Lara:\r\nNamorados?"
+  - "Iury:\r\nIsso, estamos namorando por um pouco mais de 2 anos."
+  - "Iury:\r\nVoc\xEA costuma me chamar de Xuxu."
+  - "Lara:\r\nO q?"
+  - "Iury:\r\nSua m\xE3e, Samid Forte, seu pai, Rubens Mota."
+  - "Iury:\r\nSua irm\xE3, Liana Mota, e irm\xE3o, Lucas Forte."
+  - "Iury:\r\nSua nora, Marilia Mota, e a sua sobrinha/afiliada Maria de Lourdes"
+  - "Lara:\r\nEsses nomes\u2026"
+  - "Iury:\r\nSeus grande amigos, Ana, Marina, Camila, Matheus"
+  - "Iury:\r\nStella, Natalia e tantos outros."
+  - "Lara:\r\nHaa.. haa.."
+  - "Iury:\r\nTodos seus amigos, toda sua fam\xEDlia preocupados."
+  - "Iury:\r\nE tem eu."
+  - "Iury:\r\nSeu namorado."
+  - "Lara:\r\nEu to lembrando."
+  - "Iury:\r\nFizemos tantas juras de amor, tantas viagens."
+  - "Iury:\r\nCanoa Quebrada, Lagoinha."
+  - "Lara:\r\nArgentina."
+  - "Iury:\r\nIsso! Argentina amor."
+  - "Iury:\r\nFoi uma viagem inesquec\xEDvel ."
+  - "Lara:\r\nSim, fomos a v\xE1rios lugares massas."
+  - "Lara:\r\nV\xE1rios bares tem\xE1ticos."
+  - "Iury:\r\nKkkkk sim."
+  - "Lara:\r\nEu me lembro agora."
+  - "Iury:\r\nSe lembra?"
+  - "Lara:\r\nSim, eu me lembro da minha fam\xEDlia, dos meus amigos\u2026"
+  - "Lara:\r\nDe voc\xEA."
+  - "Iury:\r\nEu te amo muito, Lara."
+  - "Lara:\r\nE eu te amo demais, Iury."
+  - "Iury:\r\nNossa, estou t\xE3o feliz que voc\xEA se lembrou."
+  - "Iury:\r\nN\xE3o foi uma perda de tempo o que fiz."
+  - "Lara:\r\nxD"
+  - "Iury:\r\nAgora, antes de ir."
+  - "Iury:\r\nEu tenho algo a lhe perguntar."
+  - "Lara:\r\nA me perguntar?"
+  - "Iury:\r\nSim."
+  - "Iury:\r\nComo voc\xEA sabe, estamos em um jogo."
+  - "Lara:\r\nSim."
+  - "Iury:\r\nE de fato isso \xE9 um jogo."
+  - "Iury:\r\nMas eu quero lhe fazer uma proposta para um outro jogo."
+  - "Iury:\r\nAlgo para sempre."
+  - "Iury:\r\nPara a Lara que est\xE1 jogando e lendo isso."
+  - "Iury:\r\nVIRE PARA A DIREITA."
   typingSpeed: 0.02
   continueButton: {fileID: 2093400436}
   dialogueBox: {fileID: 1807670613}
@@ -4714,20 +4823,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1584281282501442210, guid: 6809f23136949a9488669a0f58179ef9,
+    - target: {fileID: 757271046144738374, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
-      propertyPath: m_Name
-      value: Ruby
+      propertyPath: Loop
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1584281282501442204, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 11.65
+      value: 9.837
       objectReference: {fileID: 0}
     - target: {fileID: 1584281282501442204, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.7
+      value: -1.709
       objectReference: {fileID: 0}
     - target: {fileID: 1584281282501442204, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
@@ -4774,11 +4883,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 757271046144738374, guid: 6809f23136949a9488669a0f58179ef9,
-        type: 3}
-      propertyPath: Loop
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1584281282501442207, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
       propertyPath: dialogue.sentences.Array.size
@@ -4813,6 +4917,11 @@ PrefabInstance:
         type: 3}
       propertyPath: dialogBox
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584281282501442210, guid: 6809f23136949a9488669a0f58179ef9,
+        type: 3}
+      propertyPath: m_Name
+      value: Ruby
       objectReference: {fileID: 0}
     - target: {fileID: 1584281282501442211, guid: 6809f23136949a9488669a0f58179ef9,
         type: 3}
@@ -6140,7 +6249,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1220607974}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.96753025, y: -1.3325354, z: -9.877332}
+  m_LocalPosition: {x: -1.2350426, y: -1.3404438, z: -9.877332}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1935338672}
@@ -12490,7 +12599,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1560553510}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.6068764, y: -1.3483316, z: -9.877332}
+  m_LocalPosition: {x: 4.7938766, y: -1.3573315, z: -9.877332}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 574639161}
